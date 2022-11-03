@@ -1,0 +1,9 @@
+.full-height {
+  min-height: calc(100vh - 160px);
+}
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
